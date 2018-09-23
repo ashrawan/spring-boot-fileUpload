@@ -1,5 +1,5 @@
 
-Working Demo: https://github.com/ashrawan/FileUpload-Demo-React
+Working Demo: https://ashrawan.github.io/FileUpload-Demo-React/
 
 # Spring-boot-file-upload
 * Spring Boot
